@@ -111,3 +111,13 @@ Through this project, I learned:
 * Understanding how machine learning models estimate outputs
 
 This project helped build a strong foundation in data preprocessing, visualization, and beginner-level predictive modeling.
+
+## Dataset Source
+
+The medical insurance charges dataset used in this project was downloaded from the JovianML open datasets repository:
+
+* Source: JovianML Open Datasets
+* Dataset Link: https://raw.githubusercontent.com/JovianML/opendatasets/master/data/medical-charges.csv
+
+The dataset contains information related to age, BMI, smoking habits, region, and medical insurance charges.
+
